@@ -1,1 +1,1 @@
-# Pg-practics2
+# Postgres_practics_02
